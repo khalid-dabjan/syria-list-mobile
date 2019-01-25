@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.syrialist.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    
+    <name>Syria List</name>
+    <description>A comprehensive list of all businesses in Syria</description>
+    <author href="https://www.syrialist.net" email="support@syrialist.net">Syria List</author>
+
+    <content src="https://www.syrialist.net" />
+    <access origin="*" subdomains="true" />
+</widget>
