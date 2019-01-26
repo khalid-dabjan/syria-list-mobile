@@ -34,6 +34,8 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function () {
         // window.location.href = 'https://www.syrialist.net';
-        // window.open('https://www.syrialist.net', '_self', 'location=no');
+        setTimeout(function () {
+            window.open('https://www.syrialist.net', '_self', 'location=no');
+        }, 1000);
     }
 };
