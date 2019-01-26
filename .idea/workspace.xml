@@ -1,7 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87d48993-6ca4-439f-b564-3f98fea3fca5" name="Default Changelist" comment="" />
+    <list default="true" id="87d48993-6ca4-439f-b564-3f98fea3fca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/Android/Icon-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-172.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icons/iOS/Icon-88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/Android/Icon-96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-172.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/iOS/Icon-88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splash.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,29 +91,36 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="412">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="841" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -46,6 +133,11 @@
             <path>
               <item name="syria-list-mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="syria-list-mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="syria-list-mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="syria-list-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -80,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548445580920</updated>
-      <workItem from="1548445582873" duration="441000" />
+      <workItem from="1548445582873" duration="1137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="441000" />
+    <option name="totallyTimeSpent" value="1137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="841" extended-state="6" />
@@ -116,17 +208,44 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-36.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-72.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-96.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-144.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-512.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="-431">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/icon/android/drawable-hdpi-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
