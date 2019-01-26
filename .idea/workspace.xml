@@ -2,7 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d48993-6ca4-439f-b564-3f98fea3fca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/.pgbomit" beforeDir="false" afterPath="$PROJECT_DIR$/res/.pgbomit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/android/drawable-hdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/android/drawable-ldpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/android/drawable-mdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/android/drawable-xhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/android/drawable-xxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/android/drawable-xxxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-60.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-72.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-72@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-72@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-76.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-small@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-small@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon-small@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon-small@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/ios/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/icon/ios/icon@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square150x150Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square150x150Logo.scale-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square30x30Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square310x310Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square44x44Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square44x44Logo.scale-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square70x70Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square71x71Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Square71x71Logo.scale-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/StoreLogo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/StoreLogo.scale-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Wide310x150Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/windows/Wide310x150Logo.scale-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/wp8/ApplicationIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/icon/wp8/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-land-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-land-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-land-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-land-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-land-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-land-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-port-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-port-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-port-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-port-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-port-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/android/drawable-port-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-568h@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-667h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-Landscape-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-Landscape@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-Landscape~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-Portrait@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default-Portrait~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/ios/Default~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/windows/SplashScreen.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/windows/SplashScreenPhone.scale-240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/screen/wp8/screen-portrait.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +76,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/index.js">
+        <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -33,15 +93,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="841" />
@@ -69,6 +129,25 @@
               <item name="syria-list-mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="syria-list-mobile" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="syria-list-mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="syria-list-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="icon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="syria-list-mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="syria-list-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="screen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="syria-list-mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="syria-list-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="screen" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,15 +182,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548445580920</updated>
-      <workItem from="1548445582873" duration="2167000" />
+      <workItem from="1548445582873" duration="3297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2167000" />
+    <option name="totallyTimeSpent" value="3297000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="841" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -139,7 +218,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Icon.png">
+    <entry file="file://$PROJECT_DIR$/icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/res/icons/Android/Icon-36.png">
@@ -166,13 +245,6 @@
     <entry file="file://$PROJECT_DIR$/res/icon/android/drawable-hdpi-icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2041">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-992" />
@@ -198,6 +270,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
